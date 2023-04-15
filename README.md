@@ -1,1 +1,0 @@
-# mingshinclinic.github.io
