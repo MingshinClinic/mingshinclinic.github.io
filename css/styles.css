@@ -10877,7 +10877,7 @@ header.masthead h1, header.masthead .h1 {
   background-size: cover;
 }
 .showcase .showcase-img_1 {
-  min-height: 15rem;
+  min-height: 1rem;
   background-size: cover;
 }
 @media (min-width: 768px) {
