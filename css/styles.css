@@ -491,6 +491,12 @@ progress {
   font-weight: 300;
 }
 
+.lead_1 {
+  font-size: 1.25rem;
+  font-weight: 300;
+  white-space: pre;
+}
+
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
