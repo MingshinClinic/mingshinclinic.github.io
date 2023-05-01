@@ -494,7 +494,7 @@ progress {
 .lead_1 {
   font-size: 1.25rem;
   font-weight: 300;
-  white-space: pre;
+  white-space: pre-wrap;
 }
 
 .display-1 {
